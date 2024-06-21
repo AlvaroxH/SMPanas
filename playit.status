@@ -1,274 +1,514 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718848112583 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718928811721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848115623 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928814810 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848118675 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928817870 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848121728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928820930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848124783 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928823983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848127843 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928827022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848130920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928830175 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848133994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928833218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848137050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928836274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848140118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928839363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848143195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928842422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848146254 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928845472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848149310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928848552 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848152343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928851608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848155407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928854666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848158502 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928857719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848161567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928860797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848164631 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928863860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848167780 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928866918 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848170820 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928869984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848173876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928873042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848176936 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928876076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848179991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928879119 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848183034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928882167 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848186068 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928885235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848189137 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928888293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848192191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928891337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848195271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928894407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848198323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928897457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848201417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928900528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848204519 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928903561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848207587 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928906632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848210644 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928909701 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848213711 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928912763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848216780 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928915799 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848219842 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928918834 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848222923 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928921882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848226000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928924937 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848229048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928928039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848232086 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928931117 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848235177 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928934185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848238232 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928937244 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848241313 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928940293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848244364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928943343 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848247427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928946403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718848250487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718928949448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928952548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928955625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928958688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928961762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928964829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928967880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928970939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928973987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928977024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928980100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928983152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928986224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928989363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928992416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928995465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718928998518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929001553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929004600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929007631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929010687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929013742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929016789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929019840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929022884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929025933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929028976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929032014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929035058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929038109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929041191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929044251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929047316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929050365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929053405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929056455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929059497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929062560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929065614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929068676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+multi-reviewed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cancer-forgotten.gl.at.ply.gg:2495 => 127.0.0.1:2495 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718929071731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
